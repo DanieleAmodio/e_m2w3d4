@@ -29,11 +29,12 @@ main tr{
     
 }
 .info {
-    border: 1px solid black;
+    
     width: 90%;
     height: 400px;
 }
 .info ul{
+    background-color: transparent;
     overflow: auto;
     height: 95%;
 }
