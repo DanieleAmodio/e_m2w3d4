@@ -68,3 +68,11 @@ footer h4,p{
 footer button{
     border-radius: 45%;
 }
+
+.colora{
+    color: red;
+}
+
+.elimina{
+    display: none;
+}
