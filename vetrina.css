@@ -9,9 +9,9 @@ header{
 }
 header h1{
     margin: 0px;
-    padding-top: 1px;
     text-align: center;
 }
+
 main{
     background-color: #20b2aa4a;
     display: flex;
@@ -64,4 +64,7 @@ footer h4,p{
     background-color: darkcyan;
     margin: 0px;
     text-align: center;
+}
+footer button{
+    border-radius: 45%;
 }
